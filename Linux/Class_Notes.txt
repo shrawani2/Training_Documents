@@ -205,7 +205,7 @@ Day 2 : 4th Dec. 2024
 		
 		Install a package : maven 		# Maven is a Build Tool
 		
-													Tomcat 		Nginx		GIT 	Maven 
+									Tomcat 		Nginx		GIT 	Maven 
 												
 			- Install the Pre-requisites 		 	jdk								JDK 
 			
